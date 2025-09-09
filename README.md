@@ -57,3 +57,8 @@ Exemplos de palavras reservadas e operadores:
 
 Essas palavras e operadores são fundamentais para a construção de instruções SQL e para a filtragem, agrupamento e manipulação eficiente dos dados.
 # dio-bd-relacional
+
+---
+## Autor
+
+Projeto desenvolvido por Haynner J. M. (HayJM)
